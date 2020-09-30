@@ -5,8 +5,6 @@ and last one line
 и еще и еще
 и еще 6
 
----------------------
-Stupid text
-blabla
 
+Feature CONTENT
 
