@@ -10,9 +10,3 @@ Stupid text
 blabla
 
 
---------------feature
-
-
-
-
---------------add one more
